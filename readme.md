@@ -1,5 +1,7 @@
 # Dark UI
 
+![Screenshot](./README/Preview.png)
+
 ## Minecraft Resource Pack for [Vault Hunters Modpack](https://vaulthunters.gg/)
 
 Inspired by Vanilla Tweaks
