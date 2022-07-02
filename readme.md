@@ -4,7 +4,8 @@
 
 ## Minecraft Resource Pack for [Vault Hunters Modpack](https://vaulthunters.gg/)
 
-Inspired by Vanilla Tweaks
+Inspired by Vanilla Tweaks.
+</br>
 Supports most mods in the pack. Please open an issue if you find a broken texture or missing mod support.
 
 <br/>
