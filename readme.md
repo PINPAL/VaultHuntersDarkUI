@@ -12,6 +12,7 @@ Supports most mods in the pack. Please open an issue if you find a broken textur
 
 ## Screenshots
 
+![Screenshot](./README/3rd-Edition.png)
 ![Screenshot](./README/1.png)
 ![Screenshot](./README/2.png)
 ![Screenshot](./README/3.png)
